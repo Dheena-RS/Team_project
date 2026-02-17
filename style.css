@@ -1,0 +1,22 @@
+/* Task 2: CSS Section */
+
+/* Make the background colour grey */
+body {
+    background-color: grey;
+    font-family: sans-serif; /* Adding basic font for better readability */
+}
+
+/* Make h3 colour green (default) */
+h3 {
+    color: green;
+}
+
+/* Make a class to apply the colour blue to three h3 */
+.blue-text {
+    color: blue;
+}
+
+/* Make one h3 colour red */
+#red-text {
+    color: red;
+}
